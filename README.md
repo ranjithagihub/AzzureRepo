@@ -1,2 +1,2 @@
 # AzzureRepo
-this is my piublic repo
+this is my test public repo
